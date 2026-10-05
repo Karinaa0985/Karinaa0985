@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karinaa0985
 - 👀 I’m interested in new technologies and innovations happening around the world!!
-- 🌱 I’m currently learning c++ with my 2nd year computer engineering
+- 🌱 I’m a final year computer engineering student.
 - 💞️ I’m looking to suggestions and path guidance on my goals to achieve.
 - ⚡ Fun fact: I always looks up on learning new things
 - 
